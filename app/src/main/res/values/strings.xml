@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="label_demo_text">This is demo text</string>
+    <string name="enter_text_to_speech">Enter text to speech</string>
+    <string name="speech">Speech</string>
+    <string name="text_to_speech">Text to Speech</string>
+</resources>
